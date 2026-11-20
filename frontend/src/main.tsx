@@ -1,4 +1,5 @@
 /* Copyright 2026 Marimo. All rights reserved. */
+// Temporary CI baseline trigger: no runtime behavior is changed.
 
 import { mount } from "@/mount";
 
