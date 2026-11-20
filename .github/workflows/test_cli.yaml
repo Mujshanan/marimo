@@ -1,4 +1,5 @@
 name: cli test
+# Temporary CI baseline trigger: this comment-only change exercises the existing CLI workflow.
 
 on:
   push:
